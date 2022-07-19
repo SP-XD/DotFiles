@@ -13,3 +13,11 @@
 `Icons` : `WhiteSur Dark`
 
 `Dock Theme` : [`MacOs-bigsur`](https://store.kde.org/p/1399346/)
+
+`Taskbar Clock` : `Better inline clock`
+
+`Virtual Desktop Indicator` : [`Virtual-Desktop-Bar`](https://github.com/wsdfhjxc/virtual-desktop-bar)
+
+`System Fetch` : [`Nitch`](https://github.com/unxsh/nitch)
+
+`Application Launcher` : `Ulauncher`
