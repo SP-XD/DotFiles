@@ -21,3 +21,6 @@
 `System Fetch` : [`Nitch`](https://github.com/unxsh/nitch)
 
 `Application Launcher` : `Ulauncher`
+
+`Kwin-Scripts` : {
+`Window-Tiling` : [`Krohnkite`](https://github.com/esjeon/krohnkite) (:exclamation:Not Updated Anymore ) **Alternative** : [`Bismuth`](https://github.com/Bismuth-Forge/bismuth) // `Forced-blur` } 
