@@ -1,8 +1,8 @@
-# DotFiles
+# DotFiles ( WIP )
 
 ## Current Setup
 
-![img](https://github.com/SP-XD/DotFiles/blob/SP-XD-Kubuntu-20.04lts/Screenshot_20220719_201716.png?raw=true)
+![img](https://github.com/SP-XD/DotFiles/blob/SP-XD-Kubuntu-20.04lts/1658867072970.jpg?raw=true)
 
 `Global Style` : `Arch Round`
 
